@@ -8,12 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=430&height=44&lines=HTML%2FCSS%2FJavaScript%2FPython" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
-
-Slowly becoming a Software Engineer ـــــــــﮩ٨ـ
-
-🌱 &nbsp;I'm currently learning **How to Tame Ai**
-
 ### 🛠️ Tech Stack
 
 <p align="left">

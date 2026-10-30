@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  I'm Jamie: an AI Engineer in the making, coming from 10+ years in tech recruitment.<br />
+  I'm Jay: an AI Engineer in the making, coming from 10+ years in tech recruitment.<br />
   I direct AI tools like Claude Code, and check everything they build with tests and evidence.
 </p>
 
